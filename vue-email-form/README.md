@@ -10,6 +10,9 @@ A simple email form application built with Vue 3 and TypeScript demonstrating fo
 - Responsive design with Tailwind CSS
 - TypeScript integration
 
+## Deployed App
+https://673b7edc5d80831ffafac3e6--aquamarine-begonia-0a185e.netlify.app/
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
